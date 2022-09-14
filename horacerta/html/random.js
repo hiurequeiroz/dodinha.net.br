@@ -1,6 +1,6 @@
 function random_a(){
     var myrandom=Math.round(Math.random()*4)
-    var link1="https://open.spotify.com/thttps://open.spotify.com/track/5LgtJshfcCKoi4LQ40ym4d?si=2f1105c13da648derack/5LgtJshfcCKoi4LQ40ym4d?si=2f1105c13da648de"
+    var link1="https://open.spotify.com/track/5LgtJshfcCKoi4LQ40ym4d?si=2f1105c13da648derack/5LgtJshfcCKoi4LQ40ym4d?si=2f1105c13da648de"
     var link2="https://youtu.be/VgeM7Qnpvxs?t=7"
     var link3="https://youtu.be/Q8LyEErq2ws?t=5"
     var link4="https://www.youtube.com/watch?v=Bxbuqll1F0w&list=RDBxbuqll1F0w&start_radio=1"
